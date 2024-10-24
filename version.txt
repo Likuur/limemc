@@ -1,2 +1,2 @@
-Version: b1.0
-Link: https://expample.com
+Version: b2.0
+Link: https://raw.githubusercontent.com/Likuur/limemc/refs/heads/main/Lime%20Mini%20MCLauncher.exe
